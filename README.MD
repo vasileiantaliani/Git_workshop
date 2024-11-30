@@ -1,2 +1,2 @@
-Hello Github
+Hello Git
 
